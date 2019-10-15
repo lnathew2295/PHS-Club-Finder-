@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="13533" systemVersion="16G29" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Favorites" representedClassName="Favorites" syncable="YES" codeGenerationType="class">
+        <attribute name="clubAuthor" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="clubDesc" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="clubLocation" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="clubName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="clubSponsor" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="clubTime" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="clubType" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Favorites" positionX="-63" positionY="-18" width="128" height="150"/>
+    </elements>
+</model>
